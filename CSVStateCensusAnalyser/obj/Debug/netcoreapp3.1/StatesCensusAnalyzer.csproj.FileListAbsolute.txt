@@ -1,7 +1,6 @@
 C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CSVStateCensusAnalyser\obj\Debug\netcoreapp3.1\StatesCensusAnalyzer.csprojAssemblyReference.cache
 C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CSVStateCensusAnalyser\obj\Debug\netcoreapp3.1\StatesCensusAnalyzer.AssemblyInfoInputs.cache
 C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CSVStateCensusAnalyser\obj\Debug\netcoreapp3.1\StatesCensusAnalyzer.AssemblyInfo.cs
-C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CSVStateCensusAnalyser\obj\Debug\netcoreapp3.1\StatesCensusAnalyzer.csproj.CoreCompileInputs.cache
 C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CSVStateCensusAnalyser\bin\Debug\netcoreapp3.1\StatesCensusAnalyzer.exe
 C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CSVStateCensusAnalyser\bin\Debug\netcoreapp3.1\StatesCensusAnalyzer.deps.json
 C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CSVStateCensusAnalyser\bin\Debug\netcoreapp3.1\StatesCensusAnalyzer.runtimeconfig.json
@@ -15,3 +14,10 @@ C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CSVStateCensusAnalyser\obj\D
 C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CSVStateCensusAnalyser\obj\Debug\netcoreapp3.1\StatesCensusAnalyzer.dll
 C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CSVStateCensusAnalyser\obj\Debug\netcoreapp3.1\StatesCensusAnalyzer.pdb
 C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CSVStateCensusAnalyser\obj\Debug\netcoreapp3.1\StatesCensusAnalyzer.genruntimeconfig.cache
+C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CSVStateCensusAnalyser\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CSVStateCensusAnalyser\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CSVStateCensusAnalyser\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CSVStateCensusAnalyser\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CSVStateCensusAnalyser\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CSVStateCensusAnalyser\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CSVStateCensusAnalyser\obj\Debug\netcoreapp3.1\StatesCensusAnalyzer.csproj.CoreCompileInputs.cache

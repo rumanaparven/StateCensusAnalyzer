@@ -4,7 +4,7 @@ using System.Text;
 
 namespace StatesCensusAnalyzer
 {
-    class CensusAnalyzerException:Exception
+    public class CensusAnalyzerException:Exception
     {
         public enum ExceptionType
         {
