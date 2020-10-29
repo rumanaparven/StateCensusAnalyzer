@@ -14,11 +14,11 @@ namespace StatesCensusAnalyzer
             {
                 throw new CensusAnalyzerException("Inavlid File Type", CensusAnalyzerException.ExceptionType.INVALID_FILE_TYPE);
             }
-            if (!File.Exists(csvFilepath))
+            if (!File.Exists(csvFilePath))
             {
                 throw new CensusAnalyzerException("File not found", CensusAnalyzerException.ExceptionType.FILE_NOT_FOUND);
             }
-            censusData = File.ReadAllLines(csvFilepath);
+            censusData = File.ReadAllLines(csvFilePath);
             if (censusData[0] != dataHeaders)
             {
                 throw new CensusAnalyzerException("Incorrect header in Data", CensusAnalyzerException.ExceptionType.INCORRECT_HEADER);

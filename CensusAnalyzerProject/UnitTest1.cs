@@ -10,15 +10,15 @@ namespace CensusAnalyzerProject
         static string indianStateCensusHeaders = "State,Population,AreaInSqKm,DensityPerSqKm";
         static string indianStateCodeHeaders = "SrNo,State Name,TIN,StateCode";
 
-        static string indianStateCensusFilePath = @"C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CensusAnalyzerProject\CSVFiles\IndianStateCensusData.csv";
-        static string wrongHeaderIndianCensusFilePath = @"C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CensusAnalyzerProject\CSVFiles\WrongIndianStateCensusData.csv";
-        static string delimiterIndianCensusFilePath = @"C:\Users\RUMANA\source\repos\CSVStateCensusAnalyse\CensusAnalyzerProject\CSVFiles\DelimeterIndianStateCensusData.csv";
+        static string indianStateCensusFilePath = @"C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CensusAnalyzerProject\CSVFiles\IndiaStateCensusData.csv";
+        static string wrongHeaderIndianCensusFilePath = @"C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CensusAnalyzerProject\CSVFiles\WrongIndiaStateCensusData.csv";
+        static string delimiterIndianCensusFilePath = @"C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CensusAnalyzerProject\CSVFiles\DelimiterIndiaStateCensusData.csv";
         static string wrongIndianCensusFileType = @"C:\Users\RUMANApARVEN\source\repos\CSVStateCensusAnalyse\CensusAnalyzerProject\CSVFiles\WrongIndianStateCensusData.txt";
         static string wrongIndianCensusFilePath = @"C:\Users\RUMANApARVEN\source\repos\CSVStateCensusAnalyse\CensusAnalyzerProject\CSVFiles\IndiaData.csv";
 
-        static string indianStateCodeFilePath = @"C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CensusAnalyzerProject\CSVFiles\IndianStateCode.csv";
-        static string wrongHeadersStateCodefilePath = @"C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CensusAnalyzerProject\CSVFiles\DelimiterIndianStateCode.csv";
-        static string delimiterIndianStateCodeFilePath = @"C:\Users\RUMANA\source\repos\CSVStateCensusAnalyse\CensusAnalyzerProject\CSVFiles\DelimiterIndianStateCode.csv";
+        static string indianStateCodeFilePath = @"C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CensusAnalyzerProject\CSVFiles\IndiaStateCode.csv";
+        static string wrongHeadersStateCodefilePath = @"C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CensusAnalyzerProject\CSVFiles\DelimiterIndiaStateCode.csv";
+        static string delimiterIndianStateCodeFilePath = @"C:\Users\RUMANA\source\repos\CSVStateCensusAnalyser\CensusAnalyzerProject\CSVFiles\DelimiterIndiaStateCode.csv";
         static string wrongIndianStateCodeFileType = @"C:\Users\RUMANA\source\repos\CSVStateCensusAnalyse\CensusAnalyzerProject\CSVFiles\IndianStateCensusData.txt";
 
         CensusAnalyzer censusAnalyzer;
